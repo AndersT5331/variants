@@ -1,4 +1,4 @@
 # variants
-python kursus
+python kursus.
 
 Ignorer dette
