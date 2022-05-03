@@ -1,2 +1,2 @@
 # variants
-python kursus
+python kursus.
