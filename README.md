@@ -1,0 +1,2 @@
+# variants
+python kursus
